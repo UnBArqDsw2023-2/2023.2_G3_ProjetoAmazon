@@ -15,7 +15,7 @@ Reunião realizada no Microsoft Teams.
 A reunião foi iniciada às 22:05 e finalizada às 22:22.
 
 ## Objetivos
-Iniciar a sprint 1, definindo as tarefas dos integrantes do grupo para a apresentação das Metodologias, e separando as tarefas do DSW(Base) que poderão ser iniciadas ainda nessa sprint.
+Iniciar a sprint 1, definindo as tarefas dos integrantes do grupo para a apresentação da Metodologia definida pela professora (XP), e separando as tarefas do DSW(Base) que poderão ser iniciadas ainda nessa sprint.
 
 ## Tarefas
 
