@@ -1,29 +1,27 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2023.2_G1_ProjetoPandora*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# Projeto Amazon
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 03<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0142421  |  ARTUR VINICIUS DIAS NUNES |
+| 21/1030700  |  CHAYDSON FERREIRA DA APARECIDA |
+| 20/0018060  |  GABRIEL FERREIRA DA SILVA |
+| 20/2016506  |  HENRIQUE PUCCI DA SILVA PINTO |
+| 21/1031771  |  LUCAS LOPES FRAZAO |
+| 20/2023903  |  LUCAS LOPES ROCHA |
+| 19/0142260  |  MATEUS DE ALMEIDA DIAS |
+| 14/0158278  |  PEDRO HELIAS CARLOS |
+| 21/1031459  |  PEDRO HENRIQUE RODRIGUES DE CARVALHO |
+| 21/1030881  |  SAMUEL GOMES DE SOUZA |
+
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
+
+O Projeto Grupo 03: Amazon é uma iniciativa dedicada a analisar e compreender profundamente a operação da Amazon, uma das maiores empresas de comércio eletrônico do mundo. Este projeto se concentra em três componentes principais: o perfil do comprador, o perfil do vendedor e a plataforma da Amazon, juntamente com os processos envolvidos nos pedidos de reclamação, devolução e estornos de produtos e valores.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
