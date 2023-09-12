@@ -26,6 +26,7 @@
 
 - **Reuniões**
   - [28/08](atas-das-reunioes/Reuniao1.md)
+  - [11/09](atas-das-reunioes/Reuniao2.md)
 
 - **Estudo XP**
   - [Material XP](Estudo/xp/xp.md)
