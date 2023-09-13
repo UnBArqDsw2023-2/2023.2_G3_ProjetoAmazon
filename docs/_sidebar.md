@@ -25,7 +25,8 @@
   - [4.3. Participações - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
 
 - **Reuniões**
-  - [28/08](atas-das-reunioes/Reuniao1.md)
+  - [28/08/2023](atas-das-reunioes/Reuniao_28_08.md)
+  - [04/09/2023](atas-das-reunioes/Reuniao_04_09.md)
 
 - **Estudo XP**
   - [Material XP](Estudo/xp/xp.md)
