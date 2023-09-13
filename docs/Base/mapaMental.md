@@ -36,9 +36,9 @@ Devolução Amazon
     Comprador
       Embalagem do produto
         Envia o produto de acordo a forma de devolução selecionada
-  Transportadora
-    recebe o produto
-      entrega o produto ao vendedor
+    Transportadora
+      recebe o produto
+        entrega o produto ao vendedor
   Entrega Atrasada
     Comprador
       Selecionar pedido atrasado
@@ -50,17 +50,17 @@ Devolução Amazon
           envia o dinheiro do reembolso para a Amazon
           informa a Amazon sobre problemas no recebimento do produto
           envia o produto substituído para o comprador
-  Amazon
-    Recebe a confirmação de aceitação de estorno
-      Envia o dinheiro para o comprador
-  Comprador
-    recebe o reembolso
-    Realiza reclamação sobre o produto
-    Não realiza reclamação
+    Amazon
+      Recebe a confirmação de aceitação de estorno
+        Envia o dinheiro para o comprador
+    Comprador
+      recebe o reembolso
+      Realiza reclamação sobre o produto
+      Não realiza reclamação
   Cancelamento
     Comprador
       Selecionar produto
-        Solicitar 
+        Solicitar cancelamento de compra do produto 
 ```
 
 

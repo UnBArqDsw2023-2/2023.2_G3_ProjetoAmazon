@@ -14,7 +14,18 @@ O diagrama de causa-efeito será elaborado com o propósito de auxiliar na anál
 
 ## Diagrama Causa e Efeito
 
+A <i>Figura 1</i> exiber o diagrama de causa e efeito produzido para analisar os problemas que podem afetar a falta de confiabilidade do público em relação a reputação da empresa no processo 
+de devolução.
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMluqymk=/?moveToViewport=-3227,-1493,6685,2991&embedId=947284120899" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+<figcaption align="center">Figura 1: Diagrama de causa e efeito. Fonte: (Pedro Henrique e Samuel Gomes)</figcaption>
+
 ## Conclusão
+
+Ao realizar uma análise detalhada do processo de devolução da Amazon utilizando o diagrama de causa e efeito, foi possível identificar diversas causas potenciais de problemas que afetam a eficiência e a satisfação do cliente e vendedor no processo de devolução de um produto. Para aprimorar o processo de devolução da Amazon e proporcionar uma experiência mais positiva aos clientes, é fundamental abordar essas causas de maneira estratégica.
+
+Com a implementação de melhorias nessas áreas-chave, a Amazon pode não apenas reduzir o número de problemas relacionados às devoluções, mas também fortalecer sua reputação como líder em atendimento ao cliente e satisfação do cliente. A contínua busca pela excelência no processo de devolução é essencial para manter a confiança dos clientes e garantir uma experiência de compra positiva em todos os aspectos.
 
 ## Referências
 
@@ -25,4 +36,3 @@ O diagrama de causa-efeito será elaborado com o propósito de auxiliar na anál
 |    Data    | Versão |      Descrição       |   Autor(es)    |
 | :--------: | :----: | :------------------: | :------------: |
 | 12/09/2023 |  1.0   | Criação do documento | Pedro e Samuel |
-
