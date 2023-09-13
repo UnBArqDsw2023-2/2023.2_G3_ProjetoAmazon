@@ -9,6 +9,7 @@
     - [1.2. Módulo Processos/Metodologias/Abordagens](/docs/Base/1.2.ProcessosMetodologiasAbordagens.md)
     - [1.3. Participações - Base](/docs/Base/1.3.ParticipacoesBase.md)
     - [Mapa Mental](Base/mapaMental.md)
+    - [Causa e Efeito](Base/causaEfeito.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
