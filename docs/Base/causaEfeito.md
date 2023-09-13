@@ -16,7 +16,7 @@ O diagrama de causa-efeito será elaborado com o propósito de auxiliar na anál
 
 ## Conclusão
 
-## Referências Bibliograficas
+## Referências
 
 1. SOARES, Vitor. Diagrama de Ishikawa: o que é, para que serve e como usar. Na Prática. Disponível em: <https://www.napratica.org.br/diagrama-de-ishikawa/>. Acesso em: 12 set. 2023.
 
