@@ -41,7 +41,8 @@ A seguir temos a <i>Tabela 1</i> que mostra como ficou divididas nossas atividad
 A equipe se organizou e definiu as tarefas para cada integrantes além de definir os padrões de desevolvimento dos documento que serão seguidos na disciplina.
 
 ## Gravação da reunião
-<iframe width="560" height="315" src="https://youtu.be/i6J5BEJ1CaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i6J5BEJ1CaY?si=El8dw0-_ZNykS7ix" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
