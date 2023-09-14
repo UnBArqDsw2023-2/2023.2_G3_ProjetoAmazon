@@ -9,6 +9,7 @@
       - [1.1.1.1 Protótipo de Alta Fidelidade](Base/designSprint/prototipo.md)
   - **1.2. Módulo Processos / Metodologias / Abordagens**
     - [1.2.1 BPMN](Base/bpmn.md)
+    - [1.2.2 Metodologias](Base/metodologias.md)
   - [1.3. Participações - Base](/docs/Base/1.3.ParticipacoesBase.md)
 
 - **2. Desenho de Software (Modelagem)**

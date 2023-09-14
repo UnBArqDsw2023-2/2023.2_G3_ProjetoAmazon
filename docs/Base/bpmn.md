@@ -76,4 +76,4 @@ Na Figura 3, destacamos uma única "piscina" que ilustra nosso processo básico 
 
 | Versão |    Data    |          Descrição           |          Autor          |       Revisor        |
 | :----: | :--------: | :--------------------------: | :---------------------: | :------------------: |
-|  1.0   | 13/09/2023 | Criação inicial do documento | Lucas Frazão e Chaydson | Pedro Helias e Artur |
+|  1.0   | 14/09/2023 | Criação inicial do documento | Lucas Frazão e Chaydson | Pedro Helias e Artur |
