@@ -5,9 +5,10 @@
 
 - **1. Desenho de Software (Base)**
   - **1.1. Módulo Projeto Não Orientado a Abordagens Específicas**
-    - [Design Sprint](Base/designSprint/designSprint.md)
-      - [Protótipo de Alta Fidelidade](Base/designSprint/prototipo.md)
-  - [1.2. Módulo Processos/Metodologias/Abordagens](/docs/Base/1.2.ProcessosMetodologiasAbordagens.md)
+    - [1.1.1. Design Sprint](Base/designSprint/designSprint.md)
+      - [1.1.1.1 Protótipo de Alta Fidelidade](Base/designSprint/prototipo.md)
+  - **1.2. Módulo Processos / Metodologias / Abordagens**
+    - [1.2.1 BPMN](Base/bpmn.md)
   - [1.3. Participações - Base](/docs/Base/1.3.ParticipacoesBase.md)
 
 - **2. Desenho de Software (Modelagem)**
