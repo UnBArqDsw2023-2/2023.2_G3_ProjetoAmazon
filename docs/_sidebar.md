@@ -5,10 +5,13 @@
 
 - **1. Desenho de Software (Base)**
   - **1.1. Módulo Projeto Não Orientado a Abordagens Específicas**
-    - Design Sprint
-      - [Protótipo de Alta Fidelidade](Base/designSprint/prototipo.md)
-  - [1.2. Módulo Processos/Metodologias/Abordagens](/docs/Base/1.2.ProcessosMetodologiasAbordagens.md)
-  - [1.3. Participações - Base](/docs/Base/1.3.ParticipacoesBase.md)
+    - [1.1.1. Design Sprint](Base/designSprint/designSprint.md)
+      - [1.1.1.1 Protótipo de Alta Fidelidade](Base/designSprint/prototipo.md)
+  - **1.2. Módulo Processos / Metodologias / Abordagens**
+    - [1.2.1 BPMN](Base/bpmn.md)
+    - [1.2.2 Metodologias](Base/metodologias.md)
+  - **1.3. Participações - Base**
+    - [1.3.1 Participação](Base/participacao.md)
 
 - **2. Desenho de Software (Modelagem)**
   - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/Modelagem/2.1.ModelagemTradicional.md)
@@ -27,7 +30,6 @@
 - **Reuniões**
   - [28/08/2023](atas-das-reunioes/Reuniao_28_08.md)
   - [04/09/2023](atas-das-reunioes/Reuniao_04_09.md)
-  - [11/09/2023](atas-das-reunioes/Reuniao2.md)
 
 - **Estudo XP**
   - [Material XP](Estudo/xp/xp.md)
