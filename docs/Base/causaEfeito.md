@@ -19,7 +19,7 @@ de devolução.
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMluqymk=/?moveToViewport=-3227,-1493,6685,2991&embedId=947284120899" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-<figcaption align="center">Figura 1: Diagrama de causa e efeito. Fonte: (Pedro Henrique e Samuel Gomes)</figcaption>
+<figcaption align="center">Figura 1: Diagrama de causa e efeito. (Fonte: Pedro Henrique e Samuel Gomes, 2023)</figcaption>
 
 ## Conclusão
 
@@ -33,6 +33,6 @@ Com a implementação de melhorias nessas áreas-chave, a Amazon pode não apena
 
 ## Histórico de Versão
 
-|    Data    | Versão |      Descrição       |   Autor(es)    |
-| :--------: | :----: | :------------------: | :------------: |
-| 12/09/2023 |  1.0   | Criação do documento | Pedro e Samuel |
+|    Data    | Versão |      Descrição       |   Autor(es)    |     Revisor(es)    |
+| :--------: | :----: | :------------------: | :------------: | :----------------: |
+| 12/09/2023 |  1.0   | Criação do documento | Pedro e Samuel | Gabriel e Henrique |

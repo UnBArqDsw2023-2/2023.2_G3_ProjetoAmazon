@@ -64,7 +64,7 @@ Devolução Amazon
 ```
 
 
-## Referências Bibliograficas
+## Bibliografia
 
 BUZAN, Tony. Mapas mentais e sua elaboração. Editora Cultrix, 2005.
 
@@ -72,6 +72,6 @@ BUZAN, Tony. Dominando a técnica dos mapas mentais. Editora Cultrix, 2019.
 
 ## Histórico de Versão
 
-|    Data    | Versão |      Descrição       |   Autor(es)    |
-| :--------: | :----: | :------------------: | :------------: |
-| 12/09/2023 |  1.0   | Criação do documento | Pedro e Samuel |
+|    Data    | Versão |      Descrição       |   Autor(es)    |     Revisor(es)    |
+| :--------: | :----: | :------------------: | :------------: | :----------------: |
+| 12/09/2023 |  1.0   | Criação do documento | Pedro e Samuel | Gabriel e Henrique |
