@@ -13,10 +13,10 @@ Esse artefato apresenta as participações e contribuições de cada membro
 | Nome do membro                       | Contribuição                                                                        |
 | ------------------------------------ | ------------------------------------------------------------------------------------- |
 | Artur Vinicius Dias Nunes            | Rich Picture, 5W2H, Plano de Risco                                                    |
-| Chaydson Ferreira Da Aparecida       | Rich Picture, Design Sprint, Brainstorm                                               |
+| Chaydson Ferreira Da Aparecida       | Rich Picture, Design Sprint, Brainstorm, Validação                                               |
 | Gabriel Ferreira Da Silva            | Rich Picture (página, organização e desenho), Brainstorm (organização e página) |
 | Henrique Pucci Da Silva Pinto        | Rich Picture (página e desenho), Brainstorm (organização e página)                |
-| Lucas Lopes Frazao                   | Rich Picture, Design Sprint, Brainstorm                                               |
+| Lucas Lopes Frazao                   | Rich Picture, Design Sprint, Brainstorm, Validação                                               |
 | Lucas Lopes Rocha                    | Rich Picture, Protótipo e Brainstorm                                                 |
 | Mateus De Almeida Dias               | Rich picture, Protótipo, Brainstorm                                                  |
 | Pedro Helias Carlos                  | Rich Picture, Brainstorm, 5W2H, Plano de Risco                                        |
