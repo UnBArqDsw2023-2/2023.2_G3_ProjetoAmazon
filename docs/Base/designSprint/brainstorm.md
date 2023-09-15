@@ -86,8 +86,11 @@ A <i>Tabela 3</i> a seguir contém os Requisitos elicitados através do Brainsto
 | BS30 | O comprador deve poder entrar em contato direto com suporte para fazer uma reclamação     |
 
 ## Gravação da Reunião
-
 <p align="justify">Em <i>Vídeo 1</i>, está disponível a gravação da reunião em que foi feito a sessão do Braisntorm.</p>
+<iframe width="200" height="560" src="https://www.youtube.com/embed/hU2lmeCDFmc?si=4m3Ba5kX-RIbztjZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align: center">
+<p> Vídeo 1: Vídeo de realização do Brainstorm (Fonte: Gabriel e Henrique, 2023). </p>
+</div>
 
 ## Bibliografia
 BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010.Disponível em: <https://www.uniasselvi.com.br/extranet/layout/request/trilha/materiais/livro/livro.php?codigo=22393>. Acesso em: 14 set. 2023
