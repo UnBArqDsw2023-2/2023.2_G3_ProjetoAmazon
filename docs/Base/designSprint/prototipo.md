@@ -11,7 +11,7 @@ Acesse o protótipo em modo de apresentação e interativo [AQUI](https://www.fi
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F7yoAVSlriOacp0aC2kI1l0%2FG03-Amazon---ADS%3Ftype%3Ddesign%26mode%3Ddesign%26t%3D7TI5W7Pq5zg6ZS8f-1" allowfullscreen></iframe>
 
-## Referências
+## Bibliografia
 > Prototipagem: como funciona e sua importância para área de TI.  Disponível em: <https://kenzie.com.br/blog/prototipagem/#:~:text=Prototipagem%20%C3%A9%20a%20etapa%20do,etapa%20de%20aprova%C3%A7%C3%A3o%20e%20valida%C3%A7%C3%A3o.>. Acesso em: 12 set. 2023.
 
 ## Histórico de versão
