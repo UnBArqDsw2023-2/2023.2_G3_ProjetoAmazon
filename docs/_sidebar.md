@@ -10,8 +10,7 @@
   - **1.2. Módulo Processos / Metodologias / Abordagens**
     - [1.2.1 BPMN](Base/bpmn.md)
     - [1.2.2 Metodologias](Base/metodologias.md)
-  - **1.3. Participações - Base**
-    - [1.3.1 Participação](Base/participacao.md)
+  - [1.3. Participações - Base](/docs/Base/1.3.ParticipacoesBase.md)
 
 - **2. Desenho de Software (Modelagem)**
   - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/Modelagem/2.1.ModelagemTradicional.md)
