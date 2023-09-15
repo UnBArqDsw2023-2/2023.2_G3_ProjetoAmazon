@@ -13,6 +13,10 @@ Eis alguns pontos-chave sobre o BPMN:
 - O BPMN 2.0 é a versão atual da especificação, que foi lançada em janeiro de 2014.
 - Os diagramas BPMN consistem em objectos de fluxo e objectos de ligação. Os objectos de fluxo incluem eventos, actividades e gateways, enquanto os objectos de ligação incluem sequências, mensagens e associações.
 
+## Metodologia
+
+Durante nossa reunião inaugural, que contou com a presença de todos os membros da equipe, estabelecemos que Lucas Frazão e Chaydson seriam responsáveis pela elaboração do documento. Além disso, eles também participaram ativamente da reunião, contribuindo para a discussão e aprimoramento dos processos da Sprint.
+
 ## Aplicação
 
 ### Planejamento da sprint

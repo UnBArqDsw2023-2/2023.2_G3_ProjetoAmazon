@@ -10,18 +10,18 @@ Esse artefato apresenta as participações e contribuições de cada membro
     <b>Tabela 1: Contribuição no Módulo Projeto Não Orientado a Abordagens Específicas</b>
 </figcaption>
 
-| Nome do membro                       | Contribuição                                                                        |
-| ------------------------------------ | ------------------------------------------------------------------------------------- |
-| Artur Vinicius Dias Nunes            | Rich Picture, 5W2H, Plano de Risco                                                    |
-| Chaydson Ferreira Da Aparecida       | Rich Picture, Design Sprint, Brainstorm, Validação                                               |
-| Gabriel Ferreira Da Silva            | Rich Picture (página, organização e desenho), Brainstorm (organização e página) |
-| Henrique Pucci Da Silva Pinto        | Rich Picture (página e desenho), Brainstorm (organização e página)                |
-| Lucas Lopes Frazao                   | Rich Picture, Design Sprint, Brainstorm, Validação                                               |
-| Lucas Lopes Rocha                    | Rich Picture, Protótipo e Brainstorm                                                 |
-| Mateus De Almeida Dias               | Rich picture, Protótipo, Brainstorm                                                  |
-| Pedro Helias Carlos                  | Rich Picture, Brainstorm, 5W2H, Plano de Risco                                        |
-| Pedro Henrique Rodrigues De Carvalho | Rich picture, mapa mental, brainstorming, Diagrama de Causa e Efeito.                 |
-| Samuel Gomes De Souza                | Rich Picture, Brainstorm, Mapa Mental, Diagrama de Causa e Efeito.                    |
+| Nome do membro                       | Contribuição                                                                                              |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| Artur Vinicius Dias Nunes            | Rich Picture, 5W2H, BPMN (Reunião), Plano de Risco                                                        |
+| Chaydson Ferreira Da Aparecida       | BPMN (Reunião e criacão do documento), Rich Picture, Design Sprint, Brainstorm, Validação e Metodologia |
+| Gabriel Ferreira Da Silva            | Rich Picture (página, organização e desenho), BPMN (Reunião), Brainstorm (organização e página)      |
+| Henrique Pucci Da Silva Pinto        | Rich Picture (página e desenho), Brainstorm (organização e página), BPMN (Reunião)                    |
+| Lucas Lopes Frazao                   | BPMN (Reunião e criação do documento), Rich Picture, Design Sprint, Brainstorm, Validação              |
+| Lucas Lopes Rocha                    | Rich Picture, BPMN (Reunião), Protótipo e Brainstorm                                                      |
+| Mateus De Almeida Dias               | BPMN (Reunião), Rich picture, Protótipo, Brainstorm                                                       |
+| Pedro Helias Carlos                  | Rich Picture, Brainstorm, 5W2H, Plano de Risco, BPMN (Reunião)                                            |
+| Pedro Henrique Rodrigues De Carvalho | BPMN (Reunião), Rich picture, mapa mental, brainstorming, Diagrama de Causa e Efeito.                      |
+| Samuel Gomes De Souza                | BPMN (Reunião), Rich Picture, Brainstorm, Mapa Mental, Diagrama de Causa e Efeito.                         |
 
 <figcaption style="text-align: center">
    <b>Autor: Autoria própria (Grupo)</b>
@@ -129,10 +129,11 @@ Os participantes devem avaliar a sua própria contribuição e de sua dupla em: 
     <b>Tabela 8: Contribuição no BPMN</b>
 </figcaption>
 
-| Nome          | Avaliação Lucas Frazão                            | Avaliação Chaydson |
-| ------------- | ---------------------------------------------------- | -------------------- |
-| Lucas Frazão | Excelente                                            | Excelente            |
-| Chaydson      | Excelente, definitivamente um dos mais trabalhadores | Excelente            |
+| Nome                 | Avaliação Lucas Frazão                                           | Avaliação Chaydson                                                                                 |
+| -------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Lucas Frazão        | Excelente                                                           | Excelente                                                                                            |
+| Chaydson             | Excelente, definitivamente um dos mais trabalhadores                | Excelente                                                                                            |
+| Demais participantes | Excelente, participaram da reunião para a elicitação das ideias. | Excelente, todos participaram da reunião para o desenvolvimento do que seria feito na construção. |
 
 <figcaption style="text-align: center">
    <b>Autor: Autoria própria (Grupo)</b>
