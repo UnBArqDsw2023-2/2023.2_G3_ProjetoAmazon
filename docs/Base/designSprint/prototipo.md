@@ -17,4 +17,4 @@ Acesse o protótipo em modo de apresentação e interativo [AQUI](https://www.fi
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 12/09/2023 | Criação inicial do documento | Lucas Lopes Rocha | Gabriel Ferreira |
+| 1.0 | 12/09/2023 | Criação inicial do documento | Lucas Lopes Rocha e Mateus de Almeida Dias | Gabriel Ferreira |
