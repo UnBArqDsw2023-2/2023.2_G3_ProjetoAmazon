@@ -7,15 +7,31 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
   <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="shortcut icon" type="image/png" href="https://www.amazon.com.br/favicon.ico?">
 </head>
 <body>
+  <!-- markmap is based on d3, so must load those files first. -->
+  <script src="//unpkg.com/d3@3/d3.min.js"></script>
+  <script src="//unpkg.com/markmap@0.6.1/lib/d3-flextree.js"></script>
+  <script src="//unpkg.com/markmap@0.6.1/lib/view.mindmap.js"></script>
+  <link rel="stylesheet" href="//unpkg.com/markmap@0.6.1/style/view.mindmap.css">
   <div id="app"></div>
   <script>
     window.$docsify = {
       loadSidebar: true,
-      name: 'Repositorio Template',
-      repo: 'https://github.com/UnBArqDsw2022-1/RepositorioTemplate',
+      name: 'G3 Amazon',
+      repo: 'https://github.com/UnBArqDsw2023-2/2023.2_G3_ProjetoAmazon',
+      logo: 'https://logosmarcas.net/wp-content/uploads/2020/04/Amazon-Logo.png',
+      sidebarDisplayLevel: 0,
+      mindmap: {
+          // https://github.com/dundalek/markmap
+          markmap: {
+            preset: 'colorful', // or default
+            linkShape: 'diagonal' // or bracket
+          }
+        },
       search: {
         maxAge: 86400000, // Expiration time, the default one day
         paths: 'auto',
@@ -23,12 +39,14 @@
         noData: 'Sem resultados',
         // Headline depth, 1 - 6
         depth: 6,
-        hideOtherSidebarContent: true, // whether or not to hide other sidebar content
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
      }
     }
   </script>
   <!-- Docsify v4 -->
+  <script src="//unpkg.com/docsify-mindmap/dist/docsify-mindmap.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
