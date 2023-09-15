@@ -20,14 +20,15 @@ Eis alguns pontos-chave sobre o BPMN:
 Na Figura 1, apresentamos o esquema de planejamento da sprint. Nesta etapa crucial, o líder da equipe assume a responsabilidade de conduzir a reunião de forma eficaz. O foco central da discussão recai sobre as tarefas necessárias para atingirmos o objetivo final da entrega. Neste contexto, elaboramos o backlog da sprint, definimos as "issues" e designamos membros específicos para cada uma delas. Ao concluir a reunião, realizamos um sorteio para determinar quem será responsável pela elaboração da ata.
 
 <div style="text-align: center">
+<figcaption style="text-align: center">
+    <b>Figura 1: Diagrama BPMN 2.0 (Planejamento da sprint)</b>
+</figcaption>
 
 ![planejamento_sprint](../imagens/bpmn/planejamento.png)
 
 </div>
-
 <figcaption style="text-align: center">
-    <b>Figura 1: Diagrama BPMN 2.0 (Planejamento da sprint)</b>
-    <br/><small>Autor: Elaboração Própria (Lucas Frazão e Chaydson)</small>
+   <b>Autor: Elaboração Própria (Lucas Frazão e Chaydson)</b>
 </figcaption>
 
 ### Funcionamento da sprint
@@ -41,14 +42,15 @@ O papel do revisor vai além de apenas verificar o código; ele deve também ent
 Para encerrar o ciclo, geramos dois conjuntos de documentação: um relatório de desempenho individual, que serve para avaliar a eficácia de cada membro da equipe, e a geração da "release", que consolida todas as alterações feitas durante a sprint.
 
 <div style="text-align: center">
+<figcaption style="text-align: center">
+    <b>Figura 2: Diagrama BPMN 2.0 (Funcionamento da sprint)</b>
+</figcaption>
 
 ![planejamento_sprint](../imagens/bpmn/rodagem.png)
 
 </div>
-
 <figcaption style="text-align: center">
-    <b>Figura 2: Diagrama BPMN 2.0 (Funcionamento da sprint)</b>
-    <br/><small>Autor: Elaboração Própria (Lucas Frazão e Chaydson)</small>
+   <b>Autor: Elaboração Própria (Lucas Frazão e Chaydson)</b>
 </figcaption>
 
 ### Revisão da sprint
@@ -57,13 +59,15 @@ Na Figura 3, destacamos uma única "piscina" que ilustra nosso processo básico 
 
 <div style="text-align: center">
 
+<figcaption style="text-align: center">
+    <b>Figura 3: Diagrama BPMN 2.0 (Revisão da sprint)</b>
+</figcaption>
+
 ![planejamento_sprint](../imagens/bpmn/revisao.png)
 
 </div>
-
 <figcaption style="text-align: center">
-    <b>Figura 3: Diagrama BPMN 2.0 (Revisão da sprint)</b>
-    <br/><small>Autor: Elaboração Própria (Lucas Frazão e Chaydson)</small>
+   <b>Autor: Elaboração Própria (Lucas Frazão e Chaydson)</b>
 </figcaption>
 
 ## Bibliografia

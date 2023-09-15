@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<p align="justify">Segundo o Google, a Design Sprint é uma metodologia desenvolvida para resolver rapidamente problemas, usando design, prototipagem e validação com usuários reais. Seu objetivo enquanto metodologia é assegurar que uma ideia seja desenvolvida, prototipada e testada com o mínimo de investimento possível e no cenário mais perto da realidade.</p>
+<p align="justify">Design Sprint é uma metodologia desenvolvida para resolver rapidamente problemas, usando design, prototipagem e validação com usuários reais. Seu objetivo enquanto metodologia é assegurar que uma ideia seja desenvolvida, prototipada e testada com o mínimo de investimento possível e no cenário mais perto da realidade.</p>
 
 ## Metodologia
 
@@ -18,9 +18,9 @@
 
 ## Bibliografia
 
-> TEIXEIRA, Fabricio. Google Design Sprint: como funciona e como aplicar no seu projeto. 1 set. 2015. Disponível em: <https://brasil.uxdesign.cc/google-design-sprint-como-funciona-e-como-aplicar-no-seu-projeto-279107363659>. Acesso em: 13 set. 2023.
+> TEIXEIRA, Fabricio. Google Design Sprint: como funciona e como aplicar no seu projeto. Medium. Disponível em: <https://brasil.uxdesign.cc/google-design-sprint-como-funciona-e-como-aplicar-no-seu-projeto-279107363659>. Acesso em: 13 set. 2023.
 
-> Google Ventures. 2023. Design Sprint. 24 de abril de 2023. Disponível em: <https://designsprintkit.withgoogle.com/introduction/overview>. Acesso em: 13 set. 2023.
+> Share and engage with the Design Sprint Community. Withgoogle.com. Disponível em: <https://designsprintkit.withgoogle.com/>. Acesso em: 15 set. 2023.
 
 ## Histórico de versão
 
