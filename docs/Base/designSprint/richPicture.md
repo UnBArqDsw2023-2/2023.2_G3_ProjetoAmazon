@@ -12,7 +12,7 @@
 
 ## Rich Picture Geral( Versão 1)
 
-
+Na Figura 1 estão contidos a união dos rich pictures de todos os membros, assim como a sua legenda, localizada na Figura 2, o Rich Picture dos membros estão contidos na Tabela 1.
 
 ![Rich Picture](../../assets/imagens-base/rich-picture/Rich_Picture_Geral.png)
 <div style="text-align: center">
@@ -26,6 +26,9 @@
 
 
 ## Rich Picture dos Membros
+
+Na Tabela 1 está contida com o pensamento dos membros sobre o fluxo proposto(fluxo de devolução, estorno e defeito) em um rich picture.
+ 
 
 | Membro                               | Rich Picture |
 | ------------------------------------ | ------------ |
