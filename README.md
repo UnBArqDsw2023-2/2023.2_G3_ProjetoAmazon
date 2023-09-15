@@ -1,7 +1,7 @@
 # Amazon (G3)
 
 <div align="center">
-     <img src="/docs/assets/logos/logo-amazon.png" width="600" height="400">
+     <img src="/docs/assets/logos/logo-amazon.png" width="800" height="400">
 </div>
 
 Este repositório do Grupo 03 Amazon, está destinado ao desenvolvimento do projeto da disciplina de Arquitetura de Software, ministrada pelo professora Milene Serrano, na Universidade de Brasília - FGA, durante o período 2023.2, sendo um dos objetivos desse repositório guardar informações dos artefatos desenvolvidos e resultados que foram alcançados durante o semestre.
@@ -53,10 +53,10 @@ docsify serve ./docs
 
 ## Colaboradores
 
-| <img src="https://github.com/ArturVinicius.png"  style="width: 9vw"> | <img src="https://github.com/chaydson.png"  style="width: 9vw"> | <img src="https://github.com/oo7gabriel.png"  style="width: 9vw"> | <img src="https://github.com/HenriPucci.png"  style="width: 9vw"> | <img src="https://github.com/lucaslopesfrazao.png"  style="width: 9vw"> |
+| <img src="https://github.com/ArturVinicius.png"  style="width: 7vw"> | <img src="https://github.com/chaydson.png"  style="width: 7vw"> | <img src="https://github.com/oo7gabriel.png"  style="width: 7vw"> | <img src="https://github.com/HenriPucci.png"  style="width: 7vw"> | <img src="https://github.com/lucaslopesfrazao.png"  style="width: 7vw"> |
 | :----------------------------------------------------------------------: | :-----------------------------------------------------------------: | --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 |                        Artur Vinicius Dias Nunes                        |                   Chaydson Ferreira Da Aparecida                   | Gabriel Ferreira Da Silva                                             | Henrique Pucci Da Silva Pinto                                         | Lucas Lopes Frazao                                                          |
 
-| <img src="https://github.com/luclopesr.png"  style="width: 9vw"> | <img src="https://github.com/Mateuszinnn.png"  style="width: 9vw"> | <img src="https://github.com/pedrohelias.png"  style="width: 9vw"> | <img src="https://github.com/PedroHenrique2077.png" style="width: 9vw"> | <img src="https://github.com/SamuelGSouza.png" style="width: 9vw"> |
+| <img src="https://github.com/luclopesr.png"  style="width: 7vw"> | <img src="https://github.com/Mateuszinnn.png"  style="width: 7vw"> | <img src="https://github.com/pedrohelias.png"  style="width: 7vw"> | <img src="https://github.com/PedroHenrique2077.png" style="width: 7vw"> | <img src="https://github.com/SamuelGSouza.png" style="width: 7vw"> |
 | :------------------------------------------------------------------: | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 |                          Lucas Lopes Rocha                          | Mateus de Almeida Dias                                                | Pedro Helias Carlos                                                    | Pedro Henrique Rodrigues De Carvalho                                        | Samuel Gomes de Souza                                                  |
