@@ -2,18 +2,18 @@
 
 - [Home](/)
 - [Diretrizes](Diretrizes/Diretrizes.md)
-
-    
 - **1. Desenho de Software (Base)**
+
   - **1.1. Módulo Projeto Não Orientado a Abordagens Específicas**
     - [Design Sprint](Base/designSprint/designSprint.md)
       - [Rich Picture](Base/designSprint/richPicture.md)
       - [Brainstorm](Base/designSprint/brainstorm.md)
-      - [Causa e Efeito](Base/designSprint/causaEfeito.md.md)
-      - [Mapa Mental](Base/designSprint/mapaMental.md.md)
-      - [5W2H](Base/designSprint/5w2h.md.md)
-      - [Plano de risco](Base/designSprint/PlanoDeRiscos.md.md)
-      - [Protótipo de Alta Fidelidade](Base/designSprint/prototipo.md.md)
+      - [Causa e Efeito](Base/designSprint/causaEfeito.md)
+      - [Mapa Mental](Base/designSprint/mapaMental.md)
+      - [5W2H](Base/designSprint/5w2h.md)
+      - [Plano de risco](Base/designSprint/PlanoDeRiscos.md)
+      - [Protótipo de Alta Fidelidade](Base/designSprint/prototipo.md)
+      - [Validação](Base/designSprint/validacao.md)
   - **1.2. Módulo Processos / Metodologias / Abordagens**
     - [BPMN](Base/bpmn.md)
     - [Metodologias](Base/metodologias.md)
@@ -21,20 +21,24 @@
     - [Participações](/Base/participacao.md)
 
 - **2. Desenho de Software (Modelagem)**
+
   - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/Modelagem/2.1.ModelagemTradicional.md)
     - [2.1.1. Notação UML – Diagramas Estáticos](/docs/Modelagem/2.1.1.UMLEstaticos.md)
     - [2.1.2. Notação UML – Diagramas Dinâmicos](/docs/Modelagem/2.1.2.UMLDinamicos.md)
   - [2.2. Participações - Modelagem](/docs/Modelagem/2.2.ParticipacoesModelagem.md)
 
 - **3. Desenho de Software (Padrões de Projeto)**
+
   - [Avaliado via Prova]
 
 - **4. Desenho de Software (Arquitetura & Reutilização de Software)**
+
   - [4.1. Módulo Estilos e Padrões Arquiteturais](/docs/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
   - [4.2. Módulo Reutilização de Software](/docs/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
   - [4.3. Participações - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
 
 - **Reuniões**
+
   - [28/08/2023](atas-das-reunioes/Reuniao_28_08.md)
   - [04/09/2023](atas-das-reunioes/Reuniao_04_09.md)
   - [11/09/2023](atas-das-reunioes/Reuniao_11_09.md)
