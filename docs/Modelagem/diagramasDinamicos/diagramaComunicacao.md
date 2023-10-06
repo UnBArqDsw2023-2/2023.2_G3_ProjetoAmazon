@@ -1,4 +1,4 @@
-# Diagrama de COmunicação/Colaboração
+# Diagrama de Comunicação/Colaboração
 
 ## Introdução
 <p align="justify">Um diagrama de comunicação na UML (Unified Modeling Language) é um tipo de diagrama de modelagem de software que é usado para visualizar e descrever a interação entre os objetos ou elementos em um sistema. Ele se concentra principalmente nas mensagens que são trocadas entre os objetos e como essas mensagens fluem ao longo do tempo.</p>
@@ -11,7 +11,7 @@
 - **Descrição:** 04/10/2023
 - **Versão:** 1.0
 
-
+![](../../assets/diagramas/diagramaComunicacao1.png)
 <figcaption align="center">Figura 1: Diagrama de Comunicação do Perfil Comprador. (Fonte: Autor, 2023)</figcaption>
 
 ### Perfil Vendedor
@@ -21,6 +21,7 @@
 - **Versão:** 1.0
 
 
+![](../../assets/diagramas/diagramaComunicacao2.png)
 <figcaption align="center">Figura 2: Diagrama de Comunicação do Perfil Vendedor. (Fonte: Autor, 2023)</figcaption>
 
 ## Referências
@@ -31,4 +32,5 @@
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 04/10/2023 | Criação inicial do documento | Lucas Lopes Rocha e Artur Vinicius Dias | Mateus de Almeida Dias |
+| 1.0 | 04/10/2023 | Criação inicial do documento | Lucas Lopes Rocha e Artur Vinicius Dias | Chaydson e Lucas Frazão |
+| 1.1 | 06/10/2023 | Adição das imagens | Lucas Lopes Rocha e Artur Vinicius Dias | Chaydson e Lucas Frazão |
