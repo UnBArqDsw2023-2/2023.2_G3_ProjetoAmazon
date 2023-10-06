@@ -8,7 +8,7 @@
 ### Perfil Comprador
 - **Autores:** Lucas Lopes Rocha e Artur Vinicius Dias
 - **Descrição:** Diagrama de Comunicação do Perfil Comprador
-- **Descrição:** 04/10/2023
+- **Data:** 04/10/2023
 - **Versão:** 1.0
 
 ![](../../assets/diagramas/diagramaComunicacao1.png)
@@ -17,7 +17,7 @@
 ### Perfil Vendedor
 - **Autores:** Lucas Lopes Rocha e Artur Vinicius Dias
 - **Descrição:** Diagrama de Comunicação do Perfil Vendedor
-- **Descrição:** 04/10/2023
+- **Data:** 04/10/2023
 - **Versão:** 1.0
 
 
