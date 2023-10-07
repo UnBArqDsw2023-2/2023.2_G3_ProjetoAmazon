@@ -40,6 +40,6 @@ Diante dessa necessidade, foi criado um diagrama de atividades com o propósito 
 
 ## Histórico de versão
 
-| Versão |    Data    |          Descrição           |                            Autor                            |                   Revisor                    |
-| :----: | :--------: | :--------------------------: | :---------------------------------------------------------: | :------------------------------------------: |
-|  1.0   | 05/10/2023 | Criação inicial do documento | Pedro Henrique Rodrigues, Gabriel Ferreira, Matheus Almeida | Lucas Lopes Rocha, Artur Vinicius Dias Nunes |
+| Versão |    Data    |          Descrição           |                            Autor                            |                                  Revisor                                  |
+| :----: | :--------: | :--------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------------: |
+|  1.0   | 05/10/2023 | Criação inicial do documento | Pedro Henrique Rodrigues, Gabriel Ferreira, Matheus Almeida | PEDRO HELIAS CARLOS, HENRIQUE PUCCI DA SILVA PINTO, SAMUEL GOMES DE SOUZA |
