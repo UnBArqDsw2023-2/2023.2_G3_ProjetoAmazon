@@ -22,13 +22,14 @@
 
 - **2. Desenho de Software (Modelagem)**
 
-    - **Diagramas Estáticos**
-      - [Diagrama de Pacotes](Modelagem/diagramasEstaticos/diagramaPacotes.md)
-      - [Diagrama de Classes](Modelagem/diagramaClasses.md)
-    - **Diagramas Dinâmicos**
-      - [Diagrama de Atividades](Modelagem/diagramasDinamicos/diagramaAtividade.md)
-      - [Diagrama de Comunicação](/Modelagem/diagramasDinamicos/diagramaComunicacao.md)
-      - [Diagrama de Estados](/Modelagem/diagramasDinamicos/diagramaEstados.md)
+  - **Diagramas Estáticos**
+    - [Diagrama de Pacotes](Modelagem/diagramasEstaticos/diagramaPacotes.md)
+    - [Diagrama de Classes](Modelagem/diagramasEstaticos/diagramaClasses.md)
+    - [Diagrama de Componentes](Modelagem/diagramasEstaticos/diagramaComponentes.md)
+  - **Diagramas Dinâmicos**
+    - [Diagrama de Atividades](Modelagem/diagramasDinamicos/diagramaAtividade.md)
+    - [Diagrama de Comunicação](/Modelagem/diagramasDinamicos/diagramaComunicacao.md)
+    - [Diagrama de Estados](/Modelagem/diagramasDinamicos/diagramaEstados.md)
   - [Participações](/Modelagem/participacaoModelagem.md)
 
 - **3. Desenho de Software (Padrões de Projeto)**
