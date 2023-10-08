@@ -45,6 +45,7 @@
   - [28/08/2023](atas-das-reunioes/Reuniao_28_08.md)
   - [04/09/2023](atas-das-reunioes/Reuniao_04_09.md)
   - [11/09/2023](atas-das-reunioes/Reuniao_11_09.md)
+  - [21/09/2023](atas-das-reunioes/Reuniao_21_09.md)
 
 - **Estudos**
   - [Extreme Programming](Estudo/xp/xp.md)
