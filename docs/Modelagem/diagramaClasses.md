@@ -9,13 +9,13 @@ Com esse conceito apresentado foi, foi criado um diagrama de classes para atende
 
 ## Objetivos
 
-- Exibir a estrutura do sistema: O diagrama de classes é um artefato que descreve a estrutura estática de um sistema, fornecendo uma visualização da estrutura do sistema, com inclusão de suas classes, atributos, operações e relações entre os objetos de maneira bem definifida.
+- Exibir a estrutura do sistema: O diagrama de classes é um artefato que descreve a estrutura estática de um sistema, fornecendo uma visualização da estrutura do sistema, com inclusão de suas classes, atributos, operações e relações entre os objetos de maneira bem definida.
 
-- Modelar o sistema: Esse artefato serve também como um esqueleto para modelar como o sistema será desenvolvido, definindo os tipos de dados dos atributos de uma classe, metódos e relacionamentos, o que ajuda partes interessadas a entender o sistema.    
+- Modelar o sistema: Esse artefato serve também como um esqueleto para modelar como o sistema será desenvolvido, definindo os tipos de dados dos atributos de uma classe, métodos e relacionamentos, o que ajuda partes interessadas a entender o sistema.    
 
 - Auxiliar a Tomada de Decisões: Podem ser usados nos estágios iniciais de desenvolvimento de um projeto para tomar e informar decisões que podem ser debatidas, além de desenvolver os relacionamentos e componentes desse mesmo antes de se iniciar a parte de desenvolvimento.
 
-- Identificar requisitos do sistema: Tal artefato é útil para identificar processos e regras de negócios que estão ou não incluídos na aplicação e quais dados ou funcionalidades não estão presentes no desenvolvimento do sistema, e que podem ser desenvolvidas mais para frente seguindo o "esqueleto" definido por esse artefato.
+- Identificar requisitos do sistema: Tal artefato serve para identificar processos e regras de negócios que estão ou não incluídos na aplicação e quais dados ou funcionalidades não estão presentes no desenvolvimento do sistema, e podem ser desenvolvidas mais para frente seguindo o "esqueleto" definido por esse artefato.
 
 ## Diagrama
 
