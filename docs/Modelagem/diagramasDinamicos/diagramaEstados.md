@@ -23,7 +23,7 @@ Além das componentes citadas, ainda há componentes que representam seleções,
     <b>Figura 1: Diagrama de Estados com os fluxos correspondentes</b>
 </figcaption>
 
-![diagrama_de_estados](../imagens/home/Diagrama_de_estados.jpg)
+![](../../assets/diagramas/diagramaEstados.jpg)
 
 </div>
 <figcaption style="text-align: center">

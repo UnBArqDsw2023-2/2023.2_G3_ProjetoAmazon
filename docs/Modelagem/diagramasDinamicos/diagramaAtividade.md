@@ -25,7 +25,7 @@ Diante dessa necessidade, foi criado um diagrama de atividades com o propósito 
     <b>Figura 1: Diagrama de Atividades (UML)</b>
 </figcaption>
 
-![Diagrama de pacotes](../assets//modelagem/atividades.png)
+![](../../assets/diagramas/atividades.png)
 
 </div>
 <figcaption style="text-align: center">
