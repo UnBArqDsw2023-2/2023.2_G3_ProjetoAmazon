@@ -26,7 +26,7 @@ A <i>Figura 1</i> contém o diagrama de classes proposto pelo grupo, utilizando-
     <b>Figura 1: Diagrama de Classes (UML)</b>
 </figcaption>
 
-![Diagrama de Classes](../assets//modelagem//classes.png)
+![Diagrama de Classes](../../assets/diagramas/classes.png)
 
 </div>
 <figcaption style="text-align: center">

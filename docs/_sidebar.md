@@ -22,12 +22,14 @@
 
 - **2. Desenho de Software (Modelagem)**
 
-  - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais]()
-    - [2.1.1. Notação UML – Diagramas Estáticos]()
-      - [Diagrama de Pacotes](Modelagem/diagramaPacotes.md)
+    - **Diagramas Estáticos**
+      - [Diagrama de Pacotes](Modelagem/diagramasEstaticos/diagramaPacotes.md)
       - [Diagrama de Classes](Modelagem/diagramaClasses.md)
-    - [2.1.2. Notação UML – Diagramas Dinâmicos](/docs/Modelagem/2.1.2.UMLDinamicos.md)
-  - [2.2. Participações - Modelagem](Modelagem/2.2.ParticipacoesModelagem.md)
+    - **Diagramas Dinâmicos**
+      - [Diagrama de Atividades](Modelagem/diagramasDinamicos/diagramaAtividade.md)
+      - [Diagrama de Comunicação](/Modelagem/diagramasDinamicos/diagramaComunicacao.md)
+      - [Diagrama de Estados](/Modelagem/diagramasDinamicos/diagramaEstados.md)
+  - [Participações](/Modelagem/participacaoModelagem.md)
 
 - **3. Desenho de Software (Padrões de Projeto)**
 
