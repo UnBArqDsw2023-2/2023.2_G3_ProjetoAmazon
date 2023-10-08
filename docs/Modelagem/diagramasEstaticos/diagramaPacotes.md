@@ -23,7 +23,7 @@ Um diagrama de pacotes é um tipo de diagrama estrutural na Linguagem de Modelag
     <b>Figura 1: Diagrama de Pacotes (UML)</b>
 </figcaption>
 
-![Diagrama de pacotes](../assets//modelagem/pacotes.png)
+![Diagrama de pacotes](assets/modelagem/pacotes.png)
 
 </div>
 <figcaption style="text-align: center">
