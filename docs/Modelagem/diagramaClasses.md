@@ -9,9 +9,15 @@ Com esse conceito apresentado foi, foi criado um diagrama de classes para atende
 
 ## Objetivos
 
+- Exibir a estrutura do sistema: O diagrama de classes é um artefato que descreve a estrutura estática de um sistema, fornecendo uma visualização da estrutura do sistema, com inclusão de suas classes, atributos, operações e relações entre os objetos de maneira bem definifida.
 
+- Modelar o sistema: Esse artefato serve também como um esqueleto para modelar como o sistema será desenvolvido, definindo os tipos de dados dos atributos de uma classe, metódos e relacionamentos, o que ajuda partes interessadas a entender o sistema.    
 
-## Diagrama de Classes
+- Auxiliar a Tomada de Decisões: Podem ser usados nos estágios iniciais de desenvolvimento de um projeto para tomar e informar decisões que podem ser debatidas, além de desenvolver os relacionamentos e componentes desse mesmo antes de se iniciar a parte de desenvolvimento.
+
+- Identificar requisitos do sistema: Tal artefato é útil para identificar processos e regras de negócios que estão ou não incluídos na aplicação e quais dados ou funcionalidades não estão presentes no desenvolvimento do sistema, e que podem ser desenvolvidas mais para frente seguindo o "esqueleto" definido por esse artefato.
+
+## Diagrama
 
 <div style="text-align: center">
 <figcaption style="text-align: center">
@@ -22,16 +28,18 @@ Com esse conceito apresentado foi, foi criado um diagrama de classes para atende
 
 </div>
 <figcaption style="text-align: center">
-   <b>Autor: Elaboração Própria (Gabriel Ferreira, Matheus Almeida, Pedro Henrique Rodrigues)</b>
+   <b>Autor: Elaboração Própria (Gabriel Ferreira, Pedro Henrique Rodrigues)</b>
 </figcaption>
 
 ## Referências
 
--Curso de UML O que é um Diagrama de Classes. Disponível em: <https://youtu.be/JQSsqMCVi1k?si=94cGZA2LdO1laBZz>. Acesso em: 07 de out. de 2023.
+- Curso de UML O que é um Diagrama de Classes. Disponível em: <https://youtu.be/JQSsqMCVi1k?si=94cGZA2LdO1laBZz>. Acesso em: 07 de out. de 2023.
+
+- Nikiforova, Oksana & Sejans, Janis & Cernickins, Antons. (2011). Role of UML Class Diagram in Object-Oriented Software Development. J. Riga Technical University. 44. 65-74. 10.2478/v10143-011-0023-4. Disponível em: <https://www.researchgate.net/publication/220625913_Role_of_UML_Class_Diagram_in_Object-Oriented_Software_Development> .Acesso em: 07 de out. de 2023.
 
 
 ## Histórico de versão
 
 | Versão |    Data    |          Descrição           |                            Autor                            |                                  Revisor                                  |
 | :----: | :--------: | :--------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------------: |
-|  1.0   | 07/10/2023 | Criação inicial do documento | Pedro Henrique Rodrigues, Gabriel Ferreira, Matheus Almeida | PEDRO HELIAS CARLOS, HENRIQUE PUCCI DA SILVA PINTO, SAMUEL GOMES DE SOUZA |
+|  1.0   | 07/10/2023 | Criação inicial do documento | Pedro Henrique Rodrigues, Gabriel Ferreira | PEDRO HELIAS CARLOS, HENRIQUE PUCCI DA SILVA PINTO, SAMUEL GOMES DE SOUZA |
