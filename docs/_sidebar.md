@@ -26,6 +26,7 @@
     - [Diagrama de Pacotes](Modelagem/diagramasEstaticos/diagramaPacotes.md)
     - [Diagrama de Classes](Modelagem/diagramasEstaticos/diagramaClasses.md)
     - [Diagrama de Componentes](Modelagem/diagramasEstaticos/diagramaComponentes.md)
+    - [Diagrama de Implantação](Modelagem/diagramasEstaticos/DiagramaImplantacao.md)
   - **Diagramas Dinâmicos**
     - [Diagrama de Atividades](Modelagem/diagramasDinamicos/diagramaAtividade.md)
     - [Diagrama de Comunicação](/Modelagem/diagramasDinamicos/diagramaComunicacao.md)
