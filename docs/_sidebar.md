@@ -22,13 +22,15 @@
 
 - **2. Desenho de Software (Modelagem)**
 
-    - **Diagramas Estáticos**
-      - [Diagrama de Pacotes](Modelagem/diagramasEstaticos/diagramaPacotes.md)
-    - **Diagramas Dinâmicos**
-      - [Diagrama de Atividades](Modelagem/diagramasDinamicos/diagramaAtividade.md)
-      - [Diagrama de Comunicação](/Modelagem/diagramasDinamicos/diagramaComunicacao.md)
-      - [Diagrama de Estados](/Modelagem/diagramasDinamicos/diagramaEstados.md)
-      - [Diagrama de Sequência](/Modelagem/diagramasDinamicos/diagramaSequencia.md)
+  - **Diagramas Estáticos**
+    - [Diagrama de Pacotes](Modelagem/diagramasEstaticos/diagramaPacotes.md)
+    - [Diagrama de Classes](Modelagem/diagramasEstaticos/diagramaClasses.md)
+    - [Diagrama de Componentes](Modelagem/diagramasEstaticos/diagramaComponentes.md)
+  - **Diagramas Dinâmicos**
+    - [Diagrama de Atividades](Modelagem/diagramasDinamicos/diagramaAtividade.md)
+    - [Diagrama de Comunicação](/Modelagem/diagramasDinamicos/diagramaComunicacao.md)
+    - [Diagrama de Estados](/Modelagem/diagramasDinamicos/diagramaEstados.md)
+    - [Diagrama de Sequência](/Modelagem/diagramasDinamicos/diagramaSequencia.md)
   - [Participações](/Modelagem/participacaoModelagem.md)
 
 - **3. Desenho de Software (Padrões de Projeto)**
@@ -46,6 +48,7 @@
   - [28/08/2023](atas-das-reunioes/Reuniao_28_08.md)
   - [04/09/2023](atas-das-reunioes/Reuniao_04_09.md)
   - [11/09/2023](atas-das-reunioes/Reuniao_11_09.md)
+  - [21/09/2023](atas-das-reunioes/Reuniao_21_09.md)
 
 - **Estudos**
   - [Extreme Programming](Estudo/xp/xp.md)
