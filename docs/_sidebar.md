@@ -28,6 +28,7 @@
       - [Diagrama de Atividades](Modelagem/diagramasDinamicos/diagramaAtividade.md)
       - [Diagrama de Comunicação](/Modelagem/diagramasDinamicos/diagramaComunicacao.md)
       - [Diagrama de Estados](/Modelagem/diagramasDinamicos/diagramaEstados.md)
+      - [Diagrama de Sequência](/Modelagem/diagramasDinamicos/diagramaSequencia.md)
   - [Participações](/Modelagem/participacaoModelagem.md)
 
 - **3. Desenho de Software (Padrões de Projeto)**
