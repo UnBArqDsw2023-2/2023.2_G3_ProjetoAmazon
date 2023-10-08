@@ -23,7 +23,7 @@ O diagrama de implantação foi realizado utilizando a platafomra Lucid Chart, e
 
 São identificadores dos nós, definindo o tipo deles.
 
-![esteriotipo](../assets//modelagem/esteriotipo.jg)
+![esteriotipo](../assets//modelagem/esteriotipo.jpg)
 
 <div style="text-align: center">
 <figcaption style="text-align: center">
@@ -76,7 +76,16 @@ Mostra o caminho de comunicação entre dois nós.
 
 ## Diagrama
 
+![Diagrama de implantacao](../assets//modelagem/implantacao.png)
 
+<div style="text-align: center">
+<figcaption style="text-align: center">
+   <b>Figura 7: Diagrama de Implantação (UML)</b>
+</figcaption>
+</div>
+<figcaption style="text-align: center">
+   <b>Autor: Elaboração Própria (Artur Vinicius e Lucas Rocha)</b>
+</figcaption>
 
 ## Referências
 
