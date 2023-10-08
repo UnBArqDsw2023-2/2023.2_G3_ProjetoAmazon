@@ -99,4 +99,4 @@ Mostra o caminho de comunicação entre dois nós.
 
 | Versão |    Data    |          Descrição           |          Autor          |       Revisor        |
 | :----: | :--------: | :--------------------------: | :---------------------: | :------------------: |
-|  1.0   | 07/10/2023 | Criação inicial do documento | Artur Vinicius e Lucas Rocha| Chaydson e Lucas Rocha |
+|  1.0   | 07/10/2023 | Criação inicial do documento | Artur Vinicius e Lucas Rocha| Chaydson e Lucas Frazão |
