@@ -31,10 +31,6 @@ $ cd 2023.3_G3_ProjetoAmazon
 
 ### Instalando as dependências
 
-```shell
-npm i
-```
-
 ### Instalando o docsify
 
 Execute o comando:
