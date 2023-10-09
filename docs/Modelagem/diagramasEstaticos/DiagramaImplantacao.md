@@ -12,7 +12,7 @@ O diagrama de implantação foi realizado utilizando a platafomra Lucid Chart, e
 
 É uma entidade física que executa um ou mais componentes, subsistemas ou executáveis. Um nó pode ser um hardware ou elemento de software.
 
-![No](../assets//modelagem/No.png)
+![](../../assets/modelagem/No.png)
 
 <div style="text-align: center">
 <figcaption style="text-align: center">
@@ -23,7 +23,7 @@ O diagrama de implantação foi realizado utilizando a platafomra Lucid Chart, e
 
 São identificadores dos nós, definindo o tipo deles.
 
-![esteriotipo](../assets//modelagem/esteriotipo.jpg)
+![](../../assets/modelagem/esteriotipo.jpg)
 
 <div style="text-align: center">
 <figcaption style="text-align: center">
@@ -34,7 +34,7 @@ São identificadores dos nós, definindo o tipo deles.
 
 São elementos concretos que são causados por um processo de desenvolvimento.
 
-![Artefato](../assets//modelagem/Artefato.png)
+![](../../assets/modelagem/Artefato.png)
 
 <div style="text-align: center">
 <figcaption style="text-align: center">
@@ -45,7 +45,7 @@ São elementos concretos que são causados por um processo de desenvolvimento.
 
 Mostra o caminho de comunicação entre dois nós.
 
-![Associaçao](../assets//modelagem/Associação.png)
+![](../../assets/modelagem/Associação.png)
 
 <div style="text-align: center">
 <figcaption style="text-align: center">
@@ -56,7 +56,7 @@ Mostra o caminho de comunicação entre dois nós.
 
 É um nó que é usado para representar um recurso computacional físicio em um sistema.
 
-![Dispositivo](../assets//modelagem/Dispositivo.png)
+![](../../assets/modelagem/Dispositivo.png)
 
 <div style="text-align: center">
 <figcaption style="text-align: center">
@@ -67,7 +67,7 @@ Mostra o caminho de comunicação entre dois nós.
 
 É um arquivo de configuração. Descreve um artefato implantado me um nó.
 
-![Especificacao](../assets//modelagem/especificação.png)
+![](../../assets/modelagem/especificação.png)
 
 <div style="text-align: center">
 <figcaption style="text-align: center">
@@ -76,7 +76,7 @@ Mostra o caminho de comunicação entre dois nós.
 
 ## Diagrama
 
-![Diagrama de implantacao](../assets//modelagem/implantacao.png)
+![](../../assets/modelagem/implantacao.png)
 
 <div style="text-align: center">
 <figcaption style="text-align: center">

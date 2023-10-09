@@ -32,7 +32,7 @@ O Diagrama de Componentes possui vários objetivos para o desenvolvimento como:
     <b>Figura 1: Diagrama de Componentes (UML)</b>
 </figcaption>
 
-![Diagrama de pacotes](../assets//modelagem/DiagramaComponentes.png)
+![](../../assets/diagramas/diagramaComponentes.png)
 
 </div>
 <figcaption style="text-align: center">
