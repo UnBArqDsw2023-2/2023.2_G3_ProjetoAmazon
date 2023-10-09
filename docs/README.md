@@ -35,7 +35,43 @@ O Projeto Grupo 03: Amazon é uma iniciativa dedicada a analisar e compreender p
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
-Adicione 2 ou mais screenshots em termos de artefatos da Segunda Entrega.
+<div style="text-align: center">
+<figcaption style="text-align: center">
+    <b>Diagrama de componentes</b>
+</figcaption>
+
+![](../../assets/diagramas/diagramaComponentes.png)
+
+</div>
+
+<div style="text-align: center">
+<figcaption style="text-align: center">
+    <b>Diagrama de classe</b>
+</figcaption>
+
+![](../../assets/diagramas/classes.png)
+
+</div>
+
+<div style="text-align: center">
+<figcaption style="text-align: center">
+    <b>Diagrama de atividades</b>
+</figcaption>
+
+![](../../assets/diagramas/atividades.png)
+
+</div>
+
+<div style="text-align: center">
+<figcaption style="text-align: center">
+    <b>Diagrama de estados</b>
+</figcaption>
+
+![](../../assets/diagramas/diagramaEstados.jpg)
+
+</div>
+
+
 
 ## <<FOCO: DSW(Padrões de Projeto)>>
 
