@@ -19,6 +19,8 @@ Com esse conceito apresentado foi, foi criado um diagrama de classes para atende
 
 ## Diagrama
 
+A <i>Figura 1</i> contém o diagrama de classes proposto pelo grupo, utilizando-se de técnicas de UML para o desenvolvimento do mesmo.
+
 <div style="text-align: center">
 <figcaption style="text-align: center">
     <b>Figura 1: Diagrama de Classes (UML)</b>
@@ -42,4 +44,4 @@ Com esse conceito apresentado foi, foi criado um diagrama de classes para atende
 
 | Versão |    Data    |          Descrição           |                            Autor                            |                                  Revisor                                  |
 | :----: | :--------: | :--------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------------: |
-|  1.0   | 07/10/2023 | Criação inicial do documento | Pedro Henrique Rodrigues, Gabriel Ferreira | PEDRO HELIAS CARLOS, HENRIQUE PUCCI DA SILVA PINTO, SAMUEL GOMES DE SOUZA |
+|  1.0   | 07/10/2023 | Criação inicial do documento | Pedro Henrique Rodrigues, Gabriel Ferreira | Pedro Helias Carlos, Henrique Pucci da Silva Pinto, Samuel Gomes de Souza |
