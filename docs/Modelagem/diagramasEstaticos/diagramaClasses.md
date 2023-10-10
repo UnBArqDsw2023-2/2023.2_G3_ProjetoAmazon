@@ -45,3 +45,4 @@ A <i>Figura 1</i> contém o diagrama de classes proposto pelo grupo, utilizando-
 | Versão |    Data    |          Descrição           |                            Autor                            |                                  Revisor                                  |
 | :----: | :--------: | :--------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------------: |
 |  1.0   | 07/10/2023 | Criação inicial do documento | Pedro Henrique Rodrigues, Gabriel Ferreira | Pedro Helias Carlos, Henrique Pucci da Silva Pinto, Samuel Gomes de Souza |
+|  1.1   | 08/10/2023 | Revisão do diagrama de classes | Gabriel Ferreira | Pedro Henrique Rodrigues |
