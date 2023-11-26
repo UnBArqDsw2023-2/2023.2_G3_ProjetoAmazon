@@ -30,13 +30,13 @@ const cliente2 = new Cliente(
     BigInt('22070010')
 );
 
-transportadora.subscribe(cliente1);
-transportadora.subscribe(cliente2);
+transportadora.inscrever(cliente1);
+transportadora.inscrever(cliente2);
 
 transportadora.setStatus('Pacote enviado!');
 transportadora.setStatus('Pacote em trânsito!');
 transportadora.setStatus('Pacote entregue!');
 
-transportadora.unsubscribe(cliente1);
+transportadora.desinscrever(cliente1);
 
 transportadora.setStatus('Pacote devolvido!');

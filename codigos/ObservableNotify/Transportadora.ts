@@ -2,34 +2,34 @@ import { Observable } from './Observable.interface';
 import { Observer } from './Observer.interface';
 
 export class Transportadora implements Observable {
-    private observers: Observer[] = [];
+    private observadores: Observer[] = [];
     private status: string = '';
 
-    subscribe(observer: Observer): void {
-        const isExist = this.observers.includes(observer);
+    inscrever(observadores: Observer): void {
+        const isExist = this.observadores.includes(observadores);
         if (isExist) {
             return console.log('Observer já inscrito.');
         }
 
-        this.observers.push(observer);
+        this.observadores.push(observadores);
     }
 
-    unsubscribe(observer: Observer): void {
-        const observerIndex = this.observers.indexOf(observer);
+    desinscrever(observadores: Observer): void {
+        const observerIndex = this.observadores.indexOf(observadores);
         if (observerIndex !== -1) {
-            this.observers.splice(observerIndex, 1);
+            this.observadores.splice(observerIndex, 1);
         }
     }
 
-    notifyObservers(): void {
-        for (const observer of this.observers) {
-            observer.update(this);
+    notificar(): void {
+        for (const observer of this.observadores) {
+            observer.atualizar(this);
         }
     }
 
     setStatus(status: string): void {
         this.status = status;
-        this.notifyObservers();
+        this.notificar();
     }
 
     getStatus(): string {

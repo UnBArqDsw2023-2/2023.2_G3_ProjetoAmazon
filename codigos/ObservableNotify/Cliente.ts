@@ -22,7 +22,7 @@ export class Cliente extends Pessoa implements Observer {
         this.idCliente = idCliente;
     }
 
-    update(transportadora: Transportadora): void {
+    atualizar(transportadora: Transportadora): void {
         console.log(`Cliente ${this.nomeCompleto}, nova atualização de status: ${transportadora.getStatus()}`);
     }
 }
