@@ -19,12 +19,35 @@ Para este projeto, foi elaborado um Diagrama de Sequência com o intuito de escl
 
 A simbologia para construção do diagrama respeita a legenda encontrada na tabela abaixo. Os mais comuns estão descritos.
 
+
+
+
+<div style="text-align: center">
+<figcaption style="text-align: center">
+    <b>Figura 1: Tabela de Símbolos</b>
+</figcaption>
+
 ![](/docs/imagens/processos/processos.png)
+
+</div>
+<figcaption style="text-align: center">
+   <b>Autor: Elaboração Própria (Pedro Helias)</b>
+</figcaption>
 
 
 ## Diagrama de Sequência
 
+<div style="text-align: center">
+<figcaption style="text-align: center">
+    <b>Figura 2: Diagrama de Sequência</b>
+</figcaption>
 
+![](../../assets/diagramas/diagramaSequencia.png)
+
+</div>
+<figcaption style="text-align: center">
+   <b>Autor: Elaboração Própria (Chaydson Ferreira Henrique e Lucas Frazão)</b>
+</figcaption>
 
 ## Referências
 
