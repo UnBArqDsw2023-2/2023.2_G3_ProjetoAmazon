@@ -1,4 +1,4 @@
-# Protótipo de Alta Fidelidade
+# Visão de Dados
 
 ## Introdução
 <p align="justify">A visão de dados em um documento de arquitetura de software refere-se à representação estruturada e organizada dos requisitos e elementos relacionados ao gerenciamento de dados dentro de um sistema. Ela fornece uma visão abrangente das entidades de dados, suas interações e os fluxos de informação no contexto da arquitetura geral do software. Essa visão é crucial para compreender como os dados são coletados, armazenados, processados e acessados no sistema, permitindo aos arquitetos de software tomar decisões informadas sobre a escolha de tecnologias de armazenamento, estratégias de acesso aos dados e garantir a integridade e eficiência do sistema no que diz respeito à manipulação de informações. Em suma, a visão de dados facilita a compreensão e o planejamento eficaz da gestão de dados em um ambiente de software.</p>
@@ -32,7 +32,7 @@
 <details>
 <summary>Diagrama Entidade-Relacionamento (DER)</summary>
 
-![](../../assets/diagramas/)
+![](../../assets/diagramas/DERv1.1.png)
 
 <figcaption style="text-align: center">Figura 3: DER versão 1.1 (Fonte: Autor, 2023).</figcaption>
 </details>
@@ -40,7 +40,7 @@
 <details>
 <summary>Diagrama Lógico de Dados (DLD)</summary>
 
-![](../../assets/diagramas/)
+![](../../assets/diagramas/DLDv1.1.png)
 
 <figcaption style="text-align: center">Figura 4: DLD versão 1.1 (Fonte: Autor, 2023).</figcaption>
 </details>
@@ -56,3 +56,4 @@
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 25/11/2023 | Criação inicial do documento | Lucas Rocha e Lucas Frazão | Artur Vinicius |
+| 1.0 | 27/11/2023 | Adição da v1.1 dos diagramas | Lucas Rocha e Lucas Frazão | Artur Vinicius |
