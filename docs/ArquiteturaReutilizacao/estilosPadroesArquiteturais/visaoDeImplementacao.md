@@ -1,5 +1,7 @@
 # Visão de Implementação
 
+O Diagrama de Arquitetura de Software (DAS) é uma representação que revela a disposição e interações dos elementos de um sistema de software. Ele oferece uma visão global da arquitetura, destacando conexões entre componentes, estrutura em camadas e hierarquias. Essencialmente, o DAS facilita a análise das mudanças, identificação de problemas de design e excesso de dependências ao mostrar entradas, saídas, fluxo de dados, interfaces e interconexões entre os elementos do sistema. Em suma, parte do diagrama de componentes para visualizar e descrever as conexões e interdependências dos componentes, proporcionando compreensão da arquitetura completa do sistema.
+
 ## Diagrama de Componentes
 
 À seguir, na <i> Figura 1</i>, estará representado o diagrama de componentes proposto pelo grupo, utilizando-se das técnicas de UML em sua formação.
@@ -18,7 +20,16 @@
 
 ## Componentes
 
+Os componentes representam unidades funcionais que desempenham papéis específicos no sistema, fornecendo serviços ou funcionalidades essenciais. São como peças fundamentais que compõem o sistema, cada uma com suas próprias funções e responsabilidades.
 
+Originados do diagrama de classes, os componentes foram estruturados em subsistemas individuais, cada um interagindo através de solicitações ou disponibilizando interfaces/serviços. A análise detalhada de cada componente e seus relacionamentos é crucial para compreender como operam e se conectam no sistema.
+
+- **Usuário:** O componente pai é o componente _"Usuário"_, que é composto pelo componente filho `Autenticação`. Nessa seção, o usuário é autenticado, e recebe a autorização para acessar outras partes do sistema.
+- **Compras:** O componente pai é o componente _"Compras"_, que é composto por dois componentes filho:`Carrinho` e `Produto`. O componente `Produto` armazena dados sobre os produtos que estão disponíveis na plataforma, ea partir dele, é estabelecido o componente `Carrinho`, que terá os produtos escohidos pelo usuário.
+- **Cominicação:** O componente pai é o componente _"Comunicação"_, que é composto por dois componentes filho:`Suporte Técnico` e `Vendedor`. Os dois componentes filho podem ser solicitados, após o envio de uma solicitação de RMA, ou diretamente pelo próprio usuário.
+- **logistica:** O componente pai é o componente _"Logistica"_, que é composto por dois componentes filho:`Rastreamento` e `Transportadora`. O componente filho `Transportadora` será solicitado após o envio de uma lista de produtos, que vieram a partir do cancelamento de uma compra. E consequentemente, o `Rastreio` estará sendo solicitado.
+- **Gestão de produtos:** O componente pai é o componente _"Gestão de Produtos"_, que é composto pelos componentes:`Historico de Produtos`, `Gerenciamento de Produto`, `Filtro de Produto` e `Cancelamento de Produto`. Esses componentes foram projetados com base nos serviços que os usuários usarão na plataforma, cada parte representa uma função da plataforma. Por exemplo em `Histórico de Produtos`, o usuário pode acessar os produtos selecionados, e com o gerenciamento dos produtos selecionados, em `Cancelamento de Produto` o usuário efetuará o cancelamento da compra de seu produto selecionado.
+- **RMA:** O componente pai é o componente _"RMA(Return Material Authorization)"_, que é composto por dois componentes filho:`Devolução` e `Estorno`. Esses dois componentes representam os dois tipos de retorno após o cancelamento de um produto pelo usuário.
 ## Relacionamentos e dependências
 
 
