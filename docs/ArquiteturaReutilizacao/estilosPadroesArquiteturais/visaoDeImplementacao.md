@@ -2,6 +2,9 @@
 
 O Diagrama de Arquitetura de Software (DAS) é uma representação que revela a disposição e interações dos elementos de um sistema de software. Ele oferece uma visão global da arquitetura, destacando conexões entre componentes, estrutura em camadas e hierarquias. Essencialmente, o DAS facilita a análise das mudanças, identificação de problemas de design e excesso de dependências ao mostrar entradas, saídas, fluxo de dados, interfaces e interconexões entre os elementos do sistema. Em suma, parte do diagrama de componentes para visualizar e descrever as conexões e interdependências dos componentes, proporcionando compreensão da arquitetura completa do sistema.
 
+## Metodologia
+Foi realizada uma reunião remota, onde analisamos as correções apontadas pela professora sobre o diagrama em questão e após revisar o conteúdo por meio das aulas gravadas e da bibliografia corrigimos os pontos de melhoria aplicados. O diagrama foi feito de forma simultânea onde analisamos e discutimos como aplicar os conceitos aprendidos.
+
 ## Diagrama de Componentes
 
 À seguir, na <i> Figura 1</i>, estará representado o diagrama de componentes proposto pelo grupo, utilizando-se das técnicas de UML em sua formação. Vale ressaltar que a sigla RMA significa Return Merchandise Authorization.
@@ -41,10 +44,6 @@ A seguir temos os relacionamentos modelados no diagrama:
 - **Gestão de produtos - Logística:** Aqui teremos o relacionamento entre o componente `Gestão de Produtos` e `Logística`. Como o transporte de mercadorias será efetuado, a transportadora será informada sobre como processar com os produtos que deverão ser entregues.
 - **Compras - Gestão de produtos:** Nesse relacionamento o componente `Compras` fornecerá para o componente `Gestão de Produtos` os produtos escolhidos pelo usuário, permitindo a execução da compra.
 - **RMA - Gestão de produtos:** O componente `RMA` mandara para o componente `Gestão de Produtos` as informações necessárias para a realização do procedimento de estorno ou devolução do produto.
-
-
-## Metodologia
-Foi realizada uma reunião remota, onde analisamos as correções apontadas pela professora sobre o diagrama em questão e após revisar o conteúdo por meio das aulas gravadas e da bibliografia corrigimos os pontos de melhoria aplicados. O diagrama foi feito de forma simultânea onde analisamos e discutimos como aplicar os conceitos aprendidos.
 
 ## Referências
 
