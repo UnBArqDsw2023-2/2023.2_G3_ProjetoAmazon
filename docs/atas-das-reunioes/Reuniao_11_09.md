@@ -12,7 +12,7 @@ Reunião realizada presencialmente na FGA.
 - Pedro Helias
 - Pedro Henrique
 - Arthur Vinicius
-- Matheus
+- Mateus Almeida
 - Samuel Gomes
 
 ## Início e término

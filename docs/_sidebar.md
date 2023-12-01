@@ -40,8 +40,9 @@
 
 - **4. Desenho de Software (Arquitetura & Reutilização de Software)**
 
-  - [4.1. Módulo Estilos e Padrões Arquiteturais](/ArquiteturaReutilizacao/4.1.PadroesArquiteto.md)
-  - [4.2. Módulo Reutilização de Software](/docs/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
+  - [Módulo Estilos e Padrões Arquiteturais](ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
+  - [Módulo Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
+  - [Notificação - Observer](/ArquiteturaReutilizacao/4.4.Observer.md)
   - [4.3. Participações - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
 
 - **Reuniões**
